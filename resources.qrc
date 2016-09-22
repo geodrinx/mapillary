@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/mapillary" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>

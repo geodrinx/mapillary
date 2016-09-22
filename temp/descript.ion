@@ -1,0 +1,1 @@
+Mapillary2.geojson http://api.mapillary.com/v1/s/search?min-lat=55.611&max-lat=55.613&min-lon=12.994&max-lon=12.995&max-results=3&geojson=true
